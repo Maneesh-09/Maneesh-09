@@ -1,5 +1,7 @@
 # 💫 About Me:
-HI, I'm Maneesh
+    HI 👋, I'm Maneesh
+
+
 UI/UX Designer | Front-End Developer !!!
 
 
